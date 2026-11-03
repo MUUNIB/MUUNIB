@@ -16,7 +16,7 @@
 
 ## 🧭 Who I am
 
-I'm a **Computer Science M.Phil student at Abbottabad University of Science and Technology (AUST)** with a BS in Information Technology from Bahria University, Islamabad. I work where data engineering, analytics and machine learning meet — building the pipeline, the model *and* the dashboard that makes it useful.
+I'm a **Data Analyst and Computer Science M.Phil student at Abbottabad University of Science and Technology (AUST)** with a BS in Information Technology from Bahria University, Islamabad. I work where data engineering, analytics and machine learning meet — building the pipeline, the model *and* the dashboard that makes it useful.
 
 ```python
 class Munib:
@@ -36,6 +36,21 @@ class Munib:
 | 🔐 **Explainable AI for security** | An ML framework that characterises AES ciphertext and *explains* what the models find |
 | 🤖 **LLM agents** | Coursework and experiments on agentic AI systems |
 | 🎨 **Portfolio redesign** | A new, animation-heavy version of [my portfolio](https://munib-portfolio-henna.vercel.app/) |
+
+## 🚀 Featured projects
+
+<div align="center">
+
+<a href="https://github.com/MUUNIB/Propex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MUUNIB&repo=Propex&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=7fdbff&icon_color=7fdbff" alt="Propex" /></a>
+<a href="https://github.com/MUUNIB/AURA_REAL_ESTATE_PROJECT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MUUNIB&repo=AURA_REAL_ESTATE_PROJECT&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=7fdbff&icon_color=7fdbff" alt="AURA Real Estate Project" /></a>
+
+<a href="https://github.com/MUUNIB/Real-estate-ai-assitance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MUUNIB&repo=Real-estate-ai-assitance&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=7fdbff&icon_color=7fdbff" alt="Real estate AI assistance" /></a>
+<a href="https://github.com/MUUNIB/fastapi-ml-car-price-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MUUNIB&repo=fastapi-ml-car-price-prediction&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=7fdbff&icon_color=7fdbff" alt="FastAPI ML car price prediction" /></a>
+
+<a href="https://github.com/MUUNIB/Munib-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MUUNIB&repo=Munib-Portfolio&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=7fdbff&icon_color=7fdbff" alt="Munib Portfolio" /></a>
+<a href="https://github.com/MUUNIB/toolform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MUUNIB&repo=toolform&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=7fdbff&icon_color=7fdbff" alt="toolform" /></a>
+
+</div>
 
 ## 🛠️ Toolbox
 
